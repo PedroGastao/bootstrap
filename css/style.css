@@ -1,5 +1,6 @@
 .navbar{
     background-color: rgb(207, 223, 203);
+    color: white;
 }
 
 .saiba_mais{
@@ -27,5 +28,18 @@
 }
 
 .fimDaPagina{
-    background-color: black;
+    background-color: rgb(68, 50, 50);
+    color: white;
+}
+
+.barraSuperior{
+    color: white;
+}
+
+.corBranca{
+    color:white;
+}
+
+nav ul li a{
+    color: violet;
 }
